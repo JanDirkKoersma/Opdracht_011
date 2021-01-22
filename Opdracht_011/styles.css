@@ -1,0 +1,51 @@
+.flex-container {
+    display: flex;
+    grid-gap: 10px;
+    border: 1px solid black;
+                 
+    }
+
+.flex-container > div {
+        background-color: #f1f1f1;
+        padding: 10px;
+        font-size: 20px;
+        
+    }
+
+    
+h3 {
+    opacity: 0.5;    
+    
+
+}
+
+.btn1 {
+    border: 2px solid lightgreen;
+    color: lightgreen;
+    margin-top: 0px;
+    padding: 10px;
+    background-color: #fff;
+    font-size: 20px;
+    width: 150px;
+    
+
+    
+  }
+
+  .btn2 {
+    border: 2px solid red;
+    color:red;
+    margin-top: 0px;
+    padding: 10px;
+    background-color: #fff;
+    font-size: 20px;
+    width: 150px;
+    
+  }
+
+ .container {
+     display: flex;
+     
+     
+ }
+  
